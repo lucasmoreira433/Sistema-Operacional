@@ -1,0 +1,40 @@
+###Aula 01###
+
+*Instalação Virtual Box*
+
+*Criação de uma máquina virtual*
+
+***Instalação de uma distribuição Linux***
+
+##Extra##
+
+*Apresentar uma conta no GitHub*
+
+*Criar um projeto github, fazendo o passo a passo*
+
+*Instalar o git*
+
+comandos git bash
+
+pwd (Present Working Directory)
+
+cd(Change Directory) Desktop
+
+pwd
+
+mk(Make Directory)dir lab01
+
+ls
+
+cd lab01
+ cd .. (volta pro diretório inicial)
+
+mv lab01 proj_so (muda o nome de lab01 para proj_so)
+---------Comandos git-----
+git init(inicia um projeto git)
+
+git add (adiciona um git)
+
+git status (mostra o status do git)
+
+git commit -m " " (Insere algo no git)
