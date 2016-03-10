@@ -6,18 +6,26 @@
 
 ###VirtualBox###
 
---*1ºpasso: Acesse o site: "https://www.virtualbox.org/".
+*1ºpasso: Acesse o site: "https://www.virtualbox.org/".
 
---*2ºpasso: Baixe e instale o VirtualBox
 
---*3ºPasso: Localize o VirtualBox e abra-o
+*2ºpasso: Baixe e instale o VirtualBox
+
+
+*3ºPasso: Localize o VirtualBox e abra-o
 
 
 ###Slitaz(Linux)###
 
 1ºPasso:
+
+
 *Acesse http://www.slitaz.org/pt/get/
+
+
 *Escolha a Versão stable e baixe-a.
+
+
 *Mova o arquivo para uma pasta de fácil acesso.
 
 
